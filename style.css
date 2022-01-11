@@ -1,0 +1,18 @@
+body {
+    background-color: #eaeaea;
+}
+form {
+    display: flex;
+    flex-flow: column;
+    gap: 10px;
+    max-width: 33vw;
+    margin: auto;
+}
+.danger {
+    color: white;
+    background-color: red;
+}
+.success {
+    color: white;
+    background-color: green;
+}
